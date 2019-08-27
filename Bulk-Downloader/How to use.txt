@@ -1,0 +1,5 @@
+Simply create a text file and add all of the direct download links to the file line by line.
+Once this is done select the first options from the menu and define the location of
+the file and its name. It is recommended to include the text file in the same folder as the this py program.
+
+For multiple txt files containing organised direct download links, simply select the second option.
